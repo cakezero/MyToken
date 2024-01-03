@@ -12,7 +12,7 @@ git clone https://github.com/cakezero/MyToken
 cd MyToken && npm install
 touch .env
 ```
-Head over to https://alchemy.com to create an account. And click on the create new app.
+Head over to [alchemy](https://alchemy.com) to create an account. And click on the create new app.
 
 Choose chain Ethereum and network Ethereum Sepolia.
 
